@@ -14,3 +14,6 @@ The Car Rental System project aims to create a web-based application to automate
  Need of the project :- 
  
  The Car Rental System is developed to address the need for automating and enhancing the efficiency of the vehicle rental process. This system caters to both customers and rental agencies, providing a seamless and user-friendly platform for renting vehicles online. The project aims to streamline the booking process, improve car renting management, implement customer details management, and enhance the overall customer experience. By incorporating features such as real-time vehicle tracking, maintenance scheduling, dynamic pricing, and personalized services, the Car Rental System addresses the growing demand for a modern and efficient solution in the car rental industry.
+
+ <img width="953" alt="image" src="https://github.com/developerranjeet/Rent-A-Car/assets/131538465/135c3953-7196-4378-8e76-5976eecedcbf">
+
