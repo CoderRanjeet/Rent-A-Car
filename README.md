@@ -33,8 +33,8 @@ Car Booking : -
 <img width="959" alt="image" src="https://github.com/developerranjeet/Rent-A-Car/assets/131538465/7f382ccb-2f7d-4db7-8c7b-0b1e50c5d738">
 
 Booking Successful Message : -
-<img width="948" alt="image" src="https://github.com/developerranjeet/Rent-A-Car/assets/131538465/296e80c1-90ad-417a-8187-cd49bdffdcca">
 
+<img width="948" alt="image" src="https://github.com/developerranjeet/Rent-A-Car/assets/131538465/296e80c1-90ad-417a-8187-cd49bdffdcca">
 
 Admin Dashboard : -
 
