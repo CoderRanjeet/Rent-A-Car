@@ -56,7 +56,8 @@ Manage Cars : -
 
 Manage Customer : -
 
-<img width="947" alt="image" src="https://github.com/developerranjeet/Rent-A-Car/assets/131538465/4683754a-48e2-4e75-a438-c461d1d400f9">
+<img width="944" alt="image" src="https://github.com/developerranjeet/Rent-A-Car/assets/131538465/8371a132-67fc-4ef9-aff9-a82b789e0a2e">
+
 
 
 
